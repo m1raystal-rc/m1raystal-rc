@@ -1,3 +1,2 @@
 ![nya](https://github-stats.ubrong.com/api/top-langs/?username=snugbrick&layout=compact&theme=tokyonight&langs_count=10)
-
-![nya](https://github-stats.ubrong.com/api/top-langs/?username=m1raystal-rc&layout=compact&theme=tokyonight&langs_count=10)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=m1raystal-rc&layout=compact&hide_title=true&langs_count=10&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=m1raystal-rc&layout=compact&hide_title=true&langs_count=10&theme=tokyonight)
